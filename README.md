@@ -14,12 +14,12 @@ Simple Python project to fetch tomorrow's weather for selected cities via Weathe
 
   **Project Structure**
 
-  Weather-Forecast/
-  ─ app.py             # Main Streamlit app (UI)
-  ─ weather_api.py     # Weather API logic
-  ─ file_handler.py    # File handling (save/read history)
-  ─ requirements.txt   # Python dependencies
-  ─ README.md          # Documentation
+ Weather-Forecast/
+├── app.py # Main Streamlit app (UI)
+├── weather_api.py # Weather API logic
+├── file_handler.py # File handling (save/read history)
+├── requirements.txt # Python dependencies
+└── README.md # Documentation
 
 
 **Installation**
