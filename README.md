@@ -12,7 +12,7 @@ Simple Python project to fetch tomorrow's weather for selected cities via Weathe
 
   To get started with the WeatherAPI.com API, you'll need to create an account on weatherapi.com website. After creating an account, you will find your unique API key on your account dashboard. This key is a unique identifier that verifies your requests.
 
-  **Project Structure**
+  ## **Project Structure**
 
  Weather-Forecast/
 ├── app.py # Main Streamlit app (UI)
