@@ -15,22 +15,18 @@ Simple Python project to fetch tomorrow's weather for selected cities via Weathe
   **Project Structure**
 
   Weather-Forecast/
-│── app.py             # Main Streamlit app (UI)
-│── weather_api.py     # Weather API logic
-│── file_handler.py    # File handling (save/read history)
-│── requirements.txt   # Python dependencies
-│── README.md          # Documentation
+  ─ app.py             # Main Streamlit app (UI)
+  ─ weather_api.py     # Weather API logic
+  ─ file_handler.py    # File handling (save/read history)
+  ─ requirements.txt   # Python dependencies
+  ─ README.md          # Documentation
 
 
 **Installation**
 
 1. Clone the repository.
-2. Install dependencies:
-   pip install -r requirements.txt
-3. Set your API key:
-   Open weather_api.py
-   Replace the API_KEY variable with your WeatherAPIkey
-4. Run the Streamlit app:
-   streamlit run app.py
+2. Install dependencies: pip install -r requirements.txt
+3. Set your API key: Open weather_api.py. Replace the API_KEY variable with your WeatherAPIkey.
+4. Run the Streamlit app: streamlit run app.py
    
    
